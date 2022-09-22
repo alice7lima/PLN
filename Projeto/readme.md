@@ -13,3 +13,4 @@
 * Datasets: [Contratos e Licitações](https://drive.google.com/file/d/1x-3C0ew_UoNddM3Sb40r7V5_cFKAaJaq/view?usp=sharing), [Atos de Pessoal](https://drive.google.com/file/d/1TDfUicwYDjJBFMabGFl0aIpqysAL4eiJ/view?usp=sharing)
 * Documentação dos datasets: [1](https://github.com/UnB-KnEDLe/datasets/blob/master/corpus_2_contratos_licitacoes.md) e [2](https://github.com/UnB-KnEDLe/datasets/blob/master/anotacoes_atos_de_pessoal.md)
 * [Relatório](https://github.com/alice7lima/PLN/blob/main/Projeto/Report.pdf)
+* [Slides](https://docs.google.com/presentation/d/1SI_eIQf2jmMgy-pje3ppp07hwwXtP8R0JgGFYsGAsQI/edit?usp=sharing)
